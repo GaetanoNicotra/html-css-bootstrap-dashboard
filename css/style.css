@@ -1,7 +1,13 @@
 .logo-duck{
     width:4%;
+    margin-right: 10px;
 }
 
 i{
     color: gray;
+}
+
+.form-control::placeholder{
+    color:rgb(114, 112, 112);
+
 }
