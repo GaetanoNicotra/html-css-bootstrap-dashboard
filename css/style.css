@@ -1,5 +1,5 @@
 .logo-duck{
-    width:4%;
+    width:60px;
     margin-right: 10px;
 }
 
@@ -9,5 +9,4 @@ i{
 
 .form-control::placeholder{
     color:rgb(114, 112, 112);
-
 }
