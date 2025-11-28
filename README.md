@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Bootstrap Dashboard — Biblioteca Digitale
 
 Questo progetto consiste nella realizzazione di una **dashboard responsive** per la gestione di una biblioteca digitale.  
@@ -68,3 +69,8 @@ La dashboard è completamente responsive grazie a:
 
 
 
+=======
+# html-css-bootstrap-dashboard 🎨
+
+Ricreare il layout responsive di una dashboard, ovvero il pannello di controllo di una ipotetica applicazione web. La richiesta è realizzarlo utilizzando Bootstrap 5.
+>>>>>>> bc75150eda3c95765ef2ab8bc5bb151e22edd0e2
